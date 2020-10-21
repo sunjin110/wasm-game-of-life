@@ -16,3 +16,7 @@ wasm-packのversionをdowngradeする
 ```
 cargo install wasm-pack --version 0.8.1
 ```
+
+## 資料
+https://github.com/rustwasm/wasm-bindgen/issues/2279  
+https://github.com/rustwasm/wasm-pack/issues/793
